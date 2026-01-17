@@ -34,13 +34,13 @@ This repository contains:
 
 ```
 .
-├── thesis.pdf
-├── supervisor_review.pdf
-├── opponent_review.pdf
+├── thesis.pdf (Czech)
+├── supervisor_review.pdf (Czech)
+├── opponent_review.pdf (Czech)
 └── appendices
-    ├── README.md
+    ├── README.md (Czech)
     ├── code
-    │   ├── README.md
+    │   ├── README.md (English)
     │   └── ... (VS Code extension source)
     ├── vsix
     │   └── extester-test-generator-0.1.0.vsix
