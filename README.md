@@ -65,14 +65,14 @@ The thesis is written in Czech and covers:
 
 ## Reviews
 
-Both the opponent and supervisor reviews were graded A (highest grade in the ECTS A–F scale). The review PDFs are available in this repository:
+Both the opponent and supervisor reviews were graded A (the highest grade in the ECTS A–F scale). The review PDFs are available in this repository:
 
 - `opponent_review.pdf` (Czech)
 - `supervisor_review.pdf` (Czech)
 
 ## Technical Details
 
-This repository captures the state at thesis submission time. The actively maintained open source extension lives in the public repository ([extester-code-generator](https://github.com/pospisilf/extester-code-generator)); consider this repo a thesis backup/snapshot rather than the authoritative implementation.
+This repository captures the state at the time of thesis submission. The actively maintained open-source extension lives in the public repository ([extester-code-generator](https://github.com/pospisilf/extester-code-generator)); consider this repo a thesis backup/snapshot rather than the authoritative implementation.
 
 ### Dependencies
 
@@ -99,8 +99,8 @@ This repository captures the state at thesis submission time. The actively maint
 
 ## Author
 
-**Filip Pospisil,**
-Institution: [Mendel University in Brno](https://mendelu.cz/en/), Open Informatics study program at the Faculty of Business and Economics
+**Filip Pospisil**
+Institution: [Mendel University in Brno](https://mendelu.cz/en/) (Open Informatics study program, Faculty of Business and Economics)
 
 ## License
 
@@ -123,4 +123,4 @@ For questions or suggestions related to this thesis snapshot, please contact the
 
 ---
 
-*This repository contains both the implementation code and the complete master thesis documentation in Czech language.*
+*This repository contains both the implementation code and the complete master's thesis documentation in Czech.*
